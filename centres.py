@@ -3,4 +3,7 @@ calgary
 edmonton
 echo high river
 downtown
-Ney york
+New york
+Las
+Vagas
+Oakland
